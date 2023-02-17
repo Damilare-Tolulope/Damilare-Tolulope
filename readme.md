@@ -9,14 +9,14 @@ I also have knowledge of backend technologies like Nodejs, ExpressJs, MongoDB, a
 Currently learning React-native as part of my journey into app development.
 
 My soft skills includes communication, teamwork(really love this), collaboration, passion and integrity.
-
+<!-- 
 ## Projects?
 
 Of course, I've been able to lay my hands on some personal projects using various technologies.
 
 - Chat app - A web based chat app (still in progress)
 - SMS sender - A web based app for sending sms
-- Pes Convention - Gives details about pes-convention program
+- Pes Convention - Gives details about pes-convention program -->
 
 
 ## Contact Me🤙
